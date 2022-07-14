@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 I'm Thomas, a French student in computer science. Passionate about computers in general.  
-Currently learning <a href="https://go.dev"><img height=16 src="images/go.png"/></a>
 
 ## Things I already use
 
