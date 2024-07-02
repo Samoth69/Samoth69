@@ -21,7 +21,6 @@ Images are from [here](https://github.com/abranhe/programming-languages-logos), 
 ## Where to reach me ?
 
 Twitter: [@Samoth690](https://twitter.com/Samoth690)  
-LinkedIn: [Thomas V.](https://linkedin.com/in/thomas-violent-342a25194)
 
 ## Stats (for fun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samoth69&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
