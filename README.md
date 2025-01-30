@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Thomas, a French student in computer science. Passionate about computers in general.  
+I'm Thomas, a French computer science engineer
 
 ## Things I already use
 
@@ -18,9 +18,6 @@ I'm Thomas, a French student in computer science. Passionate about computers in 
 Note: this list isn't exhaustive, it only represent things I've already spend some (or in some case a lot of) time on.  
 Images are from [here](https://github.com/abranhe/programming-languages-logos), [here](https://icones8.fr/) or from the linked website.
 
-## Where to reach me ?
-
-Twitter: [@Samoth690](https://twitter.com/Samoth690)  
-
 ## Stats (for fun)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samoth69&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
